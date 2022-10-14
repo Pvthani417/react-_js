@@ -1,0 +1,35 @@
+.increment{
+    height:50px;
+    background-color: brown;
+    color:black;
+    font-size: 20px;
+    margin-left: 20px;
+
+    border-radius: 20px;
+    margin-bottom: 50px;
+    
+}
+.decrement{
+    height: 50px;
+    background-color: rgb(95, 96, 160);
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.reset{
+    height: 50px;
+    background-color: cadetblue;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.divincre
+{
+    background-color:rgb(218, 199, 32);
+    height: max-content;
+}
+.con{
+    font-size: 80px;
+}

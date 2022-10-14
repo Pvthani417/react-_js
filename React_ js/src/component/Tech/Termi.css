@@ -1,0 +1,19 @@
+.bcolor
+{
+    background-color:lavenderblush;
+    height:150vh;
+    width: 100vw;
+}
+
+.scienceimg
+{
+    height:80px;
+    width:100px;
+    margin-left: 300px;
+}
+.card1{
+    margin-left: 40px;
+    border-top: 9px solid purple;
+    background-color: #bfca2d;
+    border-radius: 40px;
+}

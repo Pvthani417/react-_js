@@ -1,0 +1,26 @@
+.bgcolor
+{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+.league
+{
+    color:white;
+    font-size: 80px;
+}
+.cskimg
+{
+    height:200px;
+    width: 400px;
+}
+.royimg{
+    height: 200px;
+    width: 400px;
+}
+.imgteams{
+    margin-top: 70px;
+}
+.league{
+    padding-top: 70px;
+}

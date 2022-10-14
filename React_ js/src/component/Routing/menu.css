@@ -1,0 +1,13 @@
+.menu li{
+    display: inline;
+    padding:80px;
+    font-size: 40px;
+    color:goldenrod;
+
+
+}
+.mainmenu
+{
+    background-color: black;
+    padding: 20px;
+}

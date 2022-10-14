@@ -1,0 +1,30 @@
+
+  .bgcontainer{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    height: 1200px;
+    width:100%;
+  }
+  .color{
+    background-color: cyan;
+    height:500px;
+    width:600px;
+    margin-left: 320px;
+    margin-top: 50px;
+
+  }
+  
+  .watch
+  {
+    height:150px;
+    width:200px;
+  }
+  .contant
+  {
+    font-size: 50px;
+    
+  }
+  .image
+  {
+    margin-top: 50px;
+  }
+  
